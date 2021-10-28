@@ -2,7 +2,7 @@
 
 ### What was used to make this calculator?:
 
-easy calc (document.querySelector, addEventListener, event.target, innerHTML, switch-case, try-catch, map, spread, slice, eval) 
+easy calc (document.querySelector, addEventListener, event.target, innerHTML, switch-case, try-catch, map, ...spread, slice, eval) 
 
 ### Project is created with:
 
